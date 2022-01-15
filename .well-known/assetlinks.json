@@ -1,0 +1,9 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+      "namespace": "android_app", 
+      "package_name": "com.sandymist.carsafe",
+      "sha256_cert_fingerprints": ["5B:23:83:5E:B7:5B:CD:77:C2:00:D1:1C:73:3C:31:C4:FF:8C:E5:7D"] }
+  }
+]
